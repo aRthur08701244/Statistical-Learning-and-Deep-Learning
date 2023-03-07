@@ -1,0 +1,3 @@
+觀看整理過後、餵入模型的資料，請至以下連結。
+(dataset input to 6_Main.ipynb)
+https://drive.google.com/drive/folders/1pjU0j2YV1zomo9_j53AkyXCi1KrhFxS9?usp=sharing
